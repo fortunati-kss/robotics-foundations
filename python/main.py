@@ -1,0 +1,1 @@
+print("Robotics Foundations: Ambiente Python operativo.")
